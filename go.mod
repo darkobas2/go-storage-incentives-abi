@@ -1,3 +1,3 @@
-module github.com/ethersphere/go-storage-incentives-abi
+module github.com/darkobas2/go-storage-incentives-abi
 
 go 1.15
